@@ -1,5 +1,7 @@
 # Angular2.0学习记录
 
+把项目里面用React写的一个页面换成了Angular2...
+
 这次练手的项目参考自：
 
 https://github.com/AngularClass/angular2-webpack-starter
