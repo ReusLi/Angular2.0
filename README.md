@@ -4,13 +4,15 @@
 
 https://github.com/AngularClass/angular2-webpack-starter
 
-下载后
+
+
+`$git clone https://github.com/reusLi/Angular2.0.git`
 
 `npm install`
 
 `npm start`
 
-localhost:3000
+`localhost:3000`
 
 
 因为这个Editor比较难写代码...也可能是我markdown不够好...心得写到博客里面吧.
