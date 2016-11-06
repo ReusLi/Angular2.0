@@ -1,0 +1,26 @@
+<div>
+	<div class="header">
+		<a href="#menu"><span></span></a>{{this.habitService.name == null ? '科学' : this.habitService.name}}
+	</div>
+	<div class="content">
+		<ol class="rounded-list">
+			<li><span class="parentli">学校评价</span>
+				<ol>
+					<li *ngFor = "let data of listd"><a href="javascript:;">{{data.content}}</a></li>
+				</ol>
+			</li>
+			<li><span class="parentli">家庭评价</span>
+				<ol>
+					<li class="none"><a href="javascript:;">没有家庭评价的内容</a></li>
+				</ol>
+			</li>
+			<li><span class="parentli">自我评价</span>
+				<ol>
+					<li class="none"><a href="javascript:;">没有自我评价的内容</a></li>
+				</ol>
+			</li>           	
+		</ol>
+	</div>
+	<NavData  (output)="output($event)">
+	</NavData>
+</div>

@@ -1,0 +1,7 @@
+<nav id="menu">
+	<ul>
+		<li (click)="onClickMe(subject.currencyId,subject.name)" *ngFor = "let subject of subjectData" >
+			<a href="#">{{subject.name}}</a>
+		</li>
+	</ul>
+</nav>
