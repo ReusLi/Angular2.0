@@ -19,4 +19,6 @@ https://github.com/AngularClass/angular2-webpack-starter
 
 因为这个Editor比较难写代码...也可能是我markdown不够好...心得写到博客里面吧.
 
+关于React和Angular2对比的一些个人看法：
+
 博客http://blog.csdn.net/ReusLi/article/details/53057629
