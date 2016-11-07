@@ -2,6 +2,10 @@
 
 把项目里面用React写的一个页面换成了Angular2...
 
+在开发过程中,我非常认真花了近10小时阅读完Angular2中文开发指南,并在开发过程中使用API参考手册协助开发.
+
+完成了页面从React到Angular2的重写,加深了对组件化,模块化的认识.
+
 这次练手的项目参考自：
 
 https://github.com/AngularClass/angular2-webpack-starter
